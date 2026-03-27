@@ -102,13 +102,13 @@ export default function Hero() {
         <div className="grid md:grid-cols-3 gap-8">
           {[
             {
-              title: "Développement Web",
-              desc: "Création d’interfaces rapides, modernes et performantes avec React, Next.js & Tailwind.",
+              title: "Design Graphique",
+              desc: "Création des logos rapides et afiches, modernes et performantes avec Photoshop.",
               color: "from-cyan-400 to-blue-500",
             },
             {
-              title: "Design UI/UX",
-              desc: "Expériences visuelles élégantes et intuitives qui donnent vie à votre marque.",
+              title: "Adobe Premiere Pro",
+              desc: "Expériences visuelles élégantes et intuitives sur le montages vidéo.",
               color: "from-green-400 to-lime-400",
             },
             {
